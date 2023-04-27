@@ -1,3 +1,2 @@
-# Final Result Sign Up Form
-
+# Final Result CSS Assignment
 ![alt text](./assets/result.png)
